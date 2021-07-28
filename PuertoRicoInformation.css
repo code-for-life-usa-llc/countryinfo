@@ -1,0 +1,67 @@
+body{
+    background-image: url(https://wallpapercave.com/wp/wp1865935.jpg);
+background-size: cover;
+font-family: cursive;
+}
+h1{ color: turquoise;
+    background-color: navy;
+    color:white;
+}
+p{   
+    font-size: 20;
+    color:white;
+}
+.box{ 
+     display:flex;
+        width: 300px;
+        border: 15px solid green;
+        padding: 50px;
+        margin: 20px;
+        font-size:22;
+        text-shadow: 2px 2px rgb(7, 212, 178);
+        background-color:royalblue
+}
+.LOL{
+    background-image:url(https://upload.wikimedia.org/wikipedia/commons/e/ea/La_recuperaci%C3%B3n_de_la_isla_de_Puerto_Rico_por_el_gobernador_de_la_isla%2C_Juan_de_Haro._Por_Eugenio_Caj%C3%A9s..jpg);
+    font-size: 30
+    ;
+}
+.color{
+    background-image: linear-gradient(red, yellow);
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  li {
+    float: left;
+  }
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 25px 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color:blue;
+  }
+
+  #change{
+      color:black;
+  }
+
+  #change2{
+    color:black;
+}
+
+#change3{
+    color:black;
+}
+
+#change4{
+    color:black;
+}
