@@ -3,17 +3,18 @@ h1 {
     }
     body{
         background-color:yellow;
-        color: white
+        color: Black
     }
     ul {
         list-style-type: none;
         margin: 0;
         padding: 0;
         overflow: hidden;
-        background-color: #333;
+        background-color: rgb(172, 2, 214);
       }
       li {
         float: left;
+        font-size: 20;
       }
       li a {
         display: block;
