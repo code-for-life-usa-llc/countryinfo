@@ -1,0 +1,82 @@
+body{
+    background-image: url(https://wallpapercave.com/wp/wp1865935.jpg);
+}
+h1{ color: turquoise;
+    background-color: navy;
+    font-size:33;
+}
+p{   font-size: 20;
+    font-family:cursive;
+}
+.box{ 
+     display:flex;
+        width: 300px;
+        border: 15px solid green;
+        padding: 50px;
+        margin: 20px;
+        font-size:22;
+        text-shadow: 2px 2px navy;
+        background-color:royalblue
+}
+.LOL{
+    background-image:url(https://upload.wikimedia.org/wikipedia/commons/e/ea/La_recuperaci%C3%B3n_de_la_isla_de_Puerto_Rico_por_el_gobernador_de_la_isla%2C_Juan_de_Haro._Por_Eugenio_Caj%C3%A9s..jpg);
+    font-size: 30;
+}
+.color{
+    background-image: linear-gradient(red, yellow);
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  li {
+    float: left;
+  }
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 25px 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color:blue;
+  }
+  .video {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+  /* Add some content at the bottom of the video/page */
+  .content {
+    position: fixed;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #F1F1F1;
+    width: 100%;
+    padding: 20px;
+  }
+  progress{
+    color:green;
+  }
+  #videoBG {
+    position:fixed;
+    z-index: -1;
+}
+#videoBG {
+  position:fixed;
+  z-index: -1;
+  width:100%;     
+  height: auto;
+}
+.white{
+  color:black;
+}
+h2 {
+  color:white;
+}

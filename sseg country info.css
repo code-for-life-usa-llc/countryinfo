@@ -1,0 +1,63 @@
+
+.box{
+    display: flex;
+    width: 300px;
+    border: 15px solid rgb(28, 160, 10) ;
+    padding: 50px;
+    margin: 20px;
+    text-indent: 2px 2px  rgb;
+
+}
+
+* {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(0, 168, 246);
+  }
+  li {
+    float: left;
+  }
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 25px 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color:blue;
+  }
+
+  body{
+    background-color: rgb(172, 2, 214);
+    font-family: 'Times New Roman', Times, serif;
+    border-color: blue;
+    background-image: url(earth.jpg);
+    color: rgb(6, 48, 233);
+} 
+ img{ 
+  justify-content:space-between
+}
+body {
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
