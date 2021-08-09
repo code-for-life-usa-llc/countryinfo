@@ -6,6 +6,7 @@
     padding: 50px;
     margin: 20px;
     text-indent: 2px 2px  rgb;
+    font-size: x-large;
 
 }
 
@@ -39,7 +40,7 @@ ul {
     font-family: 'Times New Roman', Times, serif;
     border-color: blue;
     background-image: url(earth.jpg);
-    color: rgb(6, 48, 233);
+    color: rgb(138, 4, 4);
 } 
  img{ 
   justify-content:space-between
