@@ -2,7 +2,10 @@ body{
     background-color: cyan;
     font-family: 'Times New Roman', Times, serif;
     color: black;
+<<<<<<< HEAD
     font-size: x-large;
+=======
+>>>>>>> 7f503d370131cbfb006b539c05661f9218c476ea
 
 }
 *{
@@ -28,5 +31,8 @@ ul {
   li a:hover {
     background-color:blue;
   }
+<<<<<<< HEAD
 
  
+=======
+>>>>>>> 7f503d370131cbfb006b539c05661f9218c476ea
